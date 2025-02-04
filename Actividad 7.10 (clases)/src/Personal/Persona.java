@@ -6,4 +6,5 @@ package Personal;
 
 abstract public class Persona {
  int numero_pelos;   
+ boolean calvo;
 }
