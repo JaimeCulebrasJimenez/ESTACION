@@ -19,9 +19,5 @@ public class Maquinistas extends Persona {
     public String getRango() {
         return rango;
     }
-    
-    
-    
-    
 
 }

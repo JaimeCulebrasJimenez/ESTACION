@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Personal;
 
 abstract public class Persona {
@@ -10,4 +6,5 @@ abstract public class Persona {
     String DNI;
     int telefono;
     int numero_pelos;
+    boolean calvo;
 }

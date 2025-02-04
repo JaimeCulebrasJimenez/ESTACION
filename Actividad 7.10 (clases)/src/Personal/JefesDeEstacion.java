@@ -16,9 +16,5 @@ public class JefesDeEstacion extends Persona {
     public String getNombre() {
         return nombre;
     }
-    
-    
-    
 
-    
 }
