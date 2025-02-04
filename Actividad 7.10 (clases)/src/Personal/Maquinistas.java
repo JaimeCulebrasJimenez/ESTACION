@@ -1,9 +1,7 @@
 package Personal;
 
-public class Maquinistas {
+public class Maquinistas extends Persona {
 
-    String nombre;
-    String DNI;
     int Sueldo;
     String rango;
 

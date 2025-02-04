@@ -1,9 +1,8 @@
 package Personal;
 
-public class Mecanicos {
+public class Mecanicos extends Persona {
 
-    String nombre;
-    int telefono;
+
     String especialidad;
 
     public Mecanicos(String nombre, int telefono, String especialidad) {

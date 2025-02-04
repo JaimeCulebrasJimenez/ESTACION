@@ -5,5 +5,9 @@
 package Personal;
 
 abstract public class Persona {
- int numero_pelos;   
+
+    String nombre;
+    String DNI;
+    int telefono;
+    int numero_pelos;
 }
